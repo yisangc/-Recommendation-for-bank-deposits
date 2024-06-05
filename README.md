@@ -7,6 +7,7 @@ Based on DNN model and DeepFM model, predict whether users will buy fixed deposi
 You can see the file "data_ditionary.xlsx"
 
 Based on DNN model: data_process+DNN_practice (python3)
+
 Based on DeepFM model: data2_pre_DF+DeepFM_pra (python3)
 
 install requirement:
